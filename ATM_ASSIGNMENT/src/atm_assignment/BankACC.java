@@ -1,4 +1,4 @@
-package ATM_ASSIGNMENT.src.atm_assignment;
+package atm_assignment;
 
 public class BankACC {
     private String accountNumber;

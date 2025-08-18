@@ -17,10 +17,6 @@ public class Account extends Person implements ATMAction {
         return this.username.equals(username) && this.password.equals(password);
     }
 
-    public double getBalance() {
-        return balance;
-    }
-
     @Override
     public void checkBalance() {
         System.out.println("Balance: " + balance);

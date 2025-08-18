@@ -1,4 +1,4 @@
-package ATM_ASSIGNMENT.atm_assignment;
+package atm_assignment;
 
 import java.util.Scanner;
 
